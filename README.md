@@ -1,0 +1,2 @@
+# nachalo
+all
